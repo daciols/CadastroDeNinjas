@@ -13,5 +13,4 @@ public class Controller {
        return "Essa é minha primeira mensagem nessa rota";
     }
 
-
 }
